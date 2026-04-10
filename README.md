@@ -4,6 +4,7 @@
 I am a 3rd-year Software Engineering student at MUIT with practical experience in building front-end interfaces using **React** and **Vanilla JS**. I also have foundational backend knowledge with **Java (Spring Boot)** and **Firebase**.
 
 I am currently seeking an **Internship** or **Junior Developer** role where I can apply my skills to real-world projects. My approach is detail-oriented, with a strong focus on writing **clean code** and understanding the **business logic** of a product. I am a quick learner and a strong team player.
+[Download my Resume (PDF)](./Resume_Anarbek_Ali.pdf)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a1ekeg) 
