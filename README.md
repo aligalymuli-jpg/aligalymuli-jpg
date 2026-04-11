@@ -1,9 +1,9 @@
 # 💫 About Me:
 # Hi there, I'm ALI 👋
 
-I am a 3rd-year Software Engineering student at MUIT with practical experience in building front-end interfaces using **React** and **Vanilla JS**. I also have foundational backend knowledge with **Java (Spring Boot)** and **Firebase**.
+I am a Junior Fullstack Developer with a passion for building fast, responsive, and user-centric web applications. My expertise lies in creating seamless digital experiences, from sleek Mobile-First frontends to robust scalable backends.
 
-I am currently seeking an **Internship** or **Junior Developer** role where I can apply my skills to real-world projects. My approach is detail-oriented, with a strong focus on writing **clean code** and understanding the **business logic** of a product. I am a quick learner and a strong team player.
+Beyond just writing code, I focus on solving real-world business problems. I have successfully delivered automation solutions for the food and retail sectors, helping small businesses transition into the digital space.
 [Download my Resume (PDF)](./Resume_Anarbek_Ali.pdf)
 
 ## 🌐 Socials:
