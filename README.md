@@ -4,7 +4,7 @@
 I am a Junior Fullstack Developer with a passion for building fast, responsive, and user-centric web applications. My expertise lies in creating seamless digital experiences, from sleek Mobile-First frontends to robust scalable backends.
 
 Beyond just writing code, I focus on solving real-world business problems. I have successfully delivered automation solutions for the food and retail sectors, helping small businesses transition into the digital space.
-[Download my Resume (PDF)](./Resume .pdf)
+[Download my Resume (PDF)](./Resume.pdf)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a1ekeg) 
