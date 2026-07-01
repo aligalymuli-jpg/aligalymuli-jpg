@@ -13,7 +13,7 @@ Beyond just writing code, I focus on solving real-world business problems. I hav
 # 🚀 My Live Projects:
 
 - 🍰 **[Vkusnyashka City](https://aligalymuli-jpg.github.io/vkusnyashka_city/index.html)** — Web-store for a confectionery with WhatsApp integration.
-- 🍕 **[Pai Pai]([https://aligalymuli-jpg.github.io/paipai-restaurant/](https://aligalymuli-jpg.github.io/Bakery-Aigul./))** — Landing page and menu catalog for a bakery.
+- 🍕 **[Pai Pai](https://aligalymuli-jpg.github.io/Bakery-Aigul./)** — Landing page and menu catalog for a bakery.
 - 💐 **[Flower Shop](https://flower-shop-almaty.netlify.app/)** — Specialized online store with custom editors.
 
 # 💻 Tech Stack:
