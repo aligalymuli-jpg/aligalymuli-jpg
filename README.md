@@ -1,22 +1,71 @@
-# 💫 About Me:
-# Hi there, I'm ALI 👋
+# Hi there, I'm Ali 👋
 
-I am a Junior Fullstack Developer with a passion for building fast, responsive, and user-centric web applications. My expertise lies in creating seamless digital experiences, from sleek Mobile-First frontends to robust scalable backends.
+### 🚀 Frontend & Fullstack Developer | React & Java (Spring Boot)
+Building fast, responsive, and user-centric web applications & PWAs. Specialized in React ecosystem, Java backend, and modern serverless architectures.
 
-Beyond just writing code, I focus on solving real-world business problems. I have successfully delivered automation solutions for the food and retail sectors, helping small businesses transition into the digital space.
-[Download my Resume (PDF)](./Resume.pdf)
+- 🔭 **Current Focus:** Scaling my B2C product (**LifeRPG**) and building commercial web solutions.
+- 💼 **Experience:** 2.5+ years in full-cycle web development, business digitalization, and independent product engineering.
+- ⚡ **Architecture & Standards:** FSD (Feature-Sliced Design), Clean Code, Mobile-First UI, Lighthouse SEO Optimization.
+- 📄 **Resume:** [Download My Resume (PDF)](https://github.com/aligalymuli-jpg)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a1ekeg) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A1ekeG)
+---
 
-# 🚀 My Live Projects:
+### 🎮 Featured Projects
 
-- 🍰 **[Vkusnyashka City](https://aligalymuli-jpg.github.io/vkusnyashka_city/index.html)** — Web-store for a confectionery with WhatsApp integration.
-- 🍕 **[Pai Pai](https://aligalymuli-jpg.github.io/Bakery-Aigul./)** — Landing page and menu catalog for a bakery.
-- 💐 **[Flower Shop](https://flower-shop-almaty.netlify.app/)** — Specialized online store with custom editors.
+* 🚀 **[LifeRPG App](#)** — *Gamified B2C PWA for Productivity (Live in Production)*
+  * **20+ Daily Active Users (DAU)** tracking daily habits, finances, and routines.
+  * **Tech Stack:** React, PWA, Framer Motion, Firebase (Auth, Firestore, Cloud Messaging).
+  * **Key Features:** Custom background sync, push notifications via Service Workers, offline-first strategy.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+* 🍰 **[Vkusnyashka City](https://github.com/aligalymuli-jpg/vkusnyashka_city)** — *E-Commerce & Management Platform*
+  * Showcase + secured admin dashboard (CRUD) for order processing and promo-code tracking.
+  * Integrated WhatsApp API & ImgBB API. Reduced order processing time by 40%.
 
-Check out my projects below!
+* 🍕 **[Pai-Pai](https://aligalymuli-jpg.github.io/Bakery-Aigul./)** — *Digital Menu for Restaurant Chain*
+  * Mobile-first digital menu with real-time stock/stop-list updates via Firebase Realtime DB.
+  * Reached **Lighthouse SEO > 90** with lazy loading and optimized web assets.
+
+* 💐 **[Flower Shop](https://github.com/aligalymuli-jpg/flower-shop)** — *E-Commerce Interactive Catalog*
+  * Modular React SPA with dynamic price calculation and MockAPI integration.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend & UI:**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aligalymuli-jpg&show_icons=true&theme=dark&hide_border=true" alt="Ali's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aligalymuli-jpg&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
+</p>
+
+---
+
+### 📫 Connect with Me:
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlekeG)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77052363788)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aligalymuli@gmail.com)
