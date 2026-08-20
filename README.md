@@ -7,8 +7,7 @@ Beyond just writing code, I focus on solving real-world business problems. I hav
 
 - 🔭 **Current Focus:** Scaling my B2C product (**LifeRPG**) and building commercial web solutions.
 - ⚡ **Architecture & Standards:** FSD (Feature-Sliced Design), Clean Code, Mobile-First UI, Lighthouse SEO Optimization.
-- 📄 **Resume:** [Download my Resume (PDF)](./
-Frontend_Developer_Anarbek_Ali.pdf)
+- 📄 **Resume:** [Download my Resume (PDF)](./Frontend_Developer_Anarbek_Ali.pdf)
 
 ---
 
