@@ -1,13 +1,13 @@
 # Hi there, I'm ALI 👋
 
 ### 🚀 Frontend & Fullstack Developer | React & Java (Spring Boot)
-I am a Frontend & Fullstack Developer with over 2.5 years of experience building fast, responsive, and user-centric web applications. My expertise lies in creating seamless digital experiences, from sleek Mobile-First frontends to robust scalable backends.
+I am a Frontend & Fullstack Developer with over 2 years of experience building fast, responsive, and user-centric web applications. My expertise lies in creating seamless digital experiences, from sleek Mobile-First frontends to scalable backends.
 
-Beyond just writing code, I focus on solving real-world business problems. I have successfully delivered automation solutions for the food and retail sectors, and built independent B2C products that people use every day.
+Beyond just writing code, I focus on solving real-world business problems. I have successfully delivered automation solutions for the HoReCa and retail sectors, and built an independent B2C product that people use every day.
 
-- 🔭 **Current Focus:** Scaling my B2C product (**LifeRPG**) and building commercial web solutions.
-- ⚡ **Architecture & Standards:** FSD (Feature-Sliced Design), Clean Code, Mobile-First UI, Lighthouse SEO Optimization.
-- 📄 **Resume:** [Download my Resume (PDF)](./Frontend_Developer_Anarbek_Ali.pdf)
+- 🔭 **Current Focus:** Developing my B2C product (**LifeRPG** — currently in Open Beta & preparing for Google Play release) and building commercial web solutions.
+- ⚡ **Standards & Optimization:** Clean Code, Mobile-First UI, PWA & Service Workers, Lighthouse SEO Optimization (> 90).
+- 📄 **Resume:** [Download my Resume (PDF)](./Anarbek_Ali_Resume.pdf)
 
 ---
 
@@ -15,22 +15,22 @@ Beyond just writing code, I focus on solving real-world business problems. I hav
 
 *(Click on the project name to view the Live Demo, or click `</> Source Code` to see the repository)*
 
-* 🚀 **[LifeRPG App](https://myherotracker-7afee.web.app/)** | [</> Source Code](https://github.com/aligalymuli-jpg/ТВОЙ_РЕПОЗИТОРИЙ_LIFERPG)
-  * **Live in Production, 20+ DAU** — Gamified B2C PWA for productivity and routine tracking.
-  * **Tech Stack:** React, Context API, Framer Motion, Firebase (Auth, Firestore, Cloud Messaging).
-  * **Key Features:** Custom background sync, push notifications via Service Workers, offline-first strategy.
+- 🚀 **[LifeRPG App (Live Demo)](https://myherotracker-7afee.web.app/)**
+  * **Open Beta, 20+ DAU** — Gamified B2C PWA for productivity, Pomodoro, and routine/finance tracking.
+  * **Tech Stack:** React, Context API, PWA, Service Workers, Firebase (Auth, Firestore, Cloud Messaging), Tailwind CSS.
+  * **Key Features:** Custom background quest sync, push notifications via FCM Service Workers, hybrid storage (Firestore + LocalStorage).
 
-* 🍰 **[Vkusnyashka City](https://aligalymuli-jpg.github.io/vkusnyashka_city/index.html)** | [</> Source Code](https://github.com/aligalymuli-jpg/vkusnyashka_city)
-  * Web-store for a confectionery with WhatsApp integration and a secured admin dashboard.
-  * **Key Features:** Integrated WhatsApp API & ImgBB API. Reduced order processing time by 40%.
+- 🍰 **[Vkusnyashka City (Live Demo)](https://aligalymuli-jpg.github.io/vkusnyashka_city/)** | [</> Source Code](https://github.com/aligalymuli-jpg/vkusnyashka_city)
+  * E-commerce web store for a confectionery with WhatsApp integration and a secured admin dashboard (CRUD).
+  * **Key Features:** Smart promo code system, WhatsApp API & ImgBB API integration. Reduced order processing time by 40% and increased average order value by 25%.
 
-* 🍕 **[Pai Pai](https://aligalymuli-jpg.github.io/Bakery-Aigul./)** | [</> Source Code](https://github.com/aligalymuli-jpg/Bakery-Aigul.)
-  * High-performance digital menu catalog and landing page for a restaurant chain.
-  * **Key Features:** Mobile-first design, real-time stock/stop-list updates via Firebase Realtime DB, Lighthouse SEO > 90.
+- 🍕 **[Pai-Pai / Bakery-Aigul (Live Demo)](https://aligalymuli-jpg.github.io/Bakery-Aigul./)** | [</> Source Code](https://github.com/aligalymuli-jpg/Bakery-Aigul.)
+  * High-performance Mobile-First digital QR menu and catalog for HoReCa businesses.
+  * **Key Features:** 100+ digitized items, real-time stop-list and price updates via Firebase Realtime DB, Lazy Loading, Lighthouse SEO > 90.
 
-* 💐 **[Flower Shop](https://flower-shop-almaty.netlify.app/)** | [</> Source Code](https://github.com/aligalymuli-jpg/flower-shop)
-  * Specialized e-commerce interactive catalog with custom item editors.
-  * **Key Features:** Modular React SPA with dynamic price calculation and MockAPI integration.
+- 💐 **[Flower Shop (Live Demo)](https://flower-shop-almaty.netlify.app/)** | [</> Source Code](https://github.com/aligalymuli-jpg/flower-shop)
+  * Specialized e-commerce interactive catalog with a custom bouquet configurator.
+  * **Key Features:** Modular React SPA with dynamic real-time price calculation and REST API (MockAPI) integration.
 
 ---
 
@@ -38,8 +38,8 @@ Beyond just writing code, I focus on solving real-world business problems. I hav
 
 **Frontend & UI:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,6 +69,6 @@ Beyond just writing code, I focus on solving real-world business problems. I hav
 ---
 
 ### 📫 Connect with Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a1ekeg) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A1ekeG)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77052363788)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a1ekeg)
